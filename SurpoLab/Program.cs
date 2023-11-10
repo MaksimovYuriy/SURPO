@@ -1,4 +1,9 @@
-﻿int a = 5;
+﻿int FeatureFunction3(int x)
+{
+    return x * 10 - 500;
+}
+
+int a = 5;
 int b = 10;
 Console.WriteLine(a + b);
 

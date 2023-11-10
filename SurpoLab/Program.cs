@@ -1,4 +1,9 @@
-﻿int a = 5;
+﻿bool FeatureFunction1(int x)
+{
+    return x > 5;
+}
+
+int a = 5;
 int b = 10;
 Console.WriteLine(a + b);
 

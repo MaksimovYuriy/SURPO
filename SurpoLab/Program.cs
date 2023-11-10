@@ -1,6 +1,6 @@
 ﻿bool FeatureFunction1(int x)
 {
-    return x > 5;
+    return x > 5 && x < 10;
 }
 
 int a = 5;

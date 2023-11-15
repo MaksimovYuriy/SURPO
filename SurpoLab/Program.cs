@@ -1,4 +1,9 @@
-﻿bool FeatureFunction1(int x)
+﻿int FeatureFunction3(int x)
+{
+    return x * 10 - 500;
+}
+
+bool FeatureFunction1(int x)
 {
     return x > 5 && x < 15 || x == 30;
 }

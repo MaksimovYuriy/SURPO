@@ -1,0 +1,14 @@
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\bin\Debug\net7.0\SurpoLab.exe
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\bin\Debug\net7.0\SurpoLab.deps.json
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\bin\Debug\net7.0\SurpoLab.runtimeconfig.json
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\bin\Debug\net7.0\SurpoLab.dll
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\bin\Debug\net7.0\SurpoLab.pdb
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.AssemblyInfoInputs.cache
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.AssemblyInfo.cs
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.csproj.CoreCompileInputs.cache
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.dll
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\refint\SurpoLab.dll
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.pdb
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\SurpoLab.genruntimeconfig.cache
+C:\Users\yuram\OneDrive\Рабочий стол\СУРПО\SURPO\SurpoLab\obj\Debug\net7.0\ref\SurpoLab.dll
